@@ -3,6 +3,10 @@
  * Code licensed under the Apache License v2.0.
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
+ @keyframes pulsate {
+  0%   {color: #{{ site.data.template.color.primary }};}
+  50%  {color: #{{ site.data.template.color.secondary }};}
+}
 
 body {
     overflow-x: hidden;
@@ -55,6 +59,13 @@ h6 {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
+}
+
+.angle-blink {
+  animation-name: pulsate;
+  animation-duration: 1.5s;
+  animation-timing-function: ease-out;
+  animation-iteration-count: infinite;
 }
 
 .img-centered {
@@ -304,6 +315,11 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header .intro-text .intro-angle {
+  margin-bottom: 5px;
+  left:50%;
+}
+
 @media(min-width:768px) {
     header .intro-text {
         padding-top: 300px;
@@ -325,6 +341,11 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+    }
+    
+    header .intro-text .intro-angle {
+      padding-top:100px;
+      left:50%;
     }
 }
 
