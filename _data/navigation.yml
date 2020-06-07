@@ -1,0 +1,11 @@
+list: 
+- name: SERVICES
+  link: services
+- name: PORTFOLIO
+  link: portfolio
+- name: ABOUT US
+  link: about
+- name: TEAM
+  link: team
+- name: CONTACT
+  link: contact

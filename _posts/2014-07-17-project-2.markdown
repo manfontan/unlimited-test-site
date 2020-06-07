@@ -1,0 +1,15 @@
+---
+title: Manuel RAS 2016
+subtitle: Tour of Ireland
+layout: default
+modal-id: 2
+date: 2016-05-17
+img: manuelras.jpg
+thumbnail: manuelras_tn.jpg
+alt: image-alt
+project-date: May 2016
+client: Manuel Fontan
+category: A2 Irish Cycling
+description: Manuel went from amateur cycling to complete an 8 day UCI race.
+
+---

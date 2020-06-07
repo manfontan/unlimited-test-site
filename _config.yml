@@ -1,0 +1,26 @@
+url: https://unlimited-test-site.github.io
+baseurl: /unlimited-test-site/
+
+# Site settings
+title: Unlimited Performance Training
+email: manuel.fontan.garcia@gmail.com
+description: "unlimited performance training for cyclist runners and triathletes"
+ 
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: slack
+    url: https://unlimitedperf-qxk1768.slack.com/join/shared_invite/zt-ewd5hazp-VmeI_CdWpPo4rj6Ifz1ArA#/
+  - title: github
+    url: http://github.com/manfontan
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+header-image: /img/victor.jpg
+upt-logo: /img/unlimitedlogocolor.jpg

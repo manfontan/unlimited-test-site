@@ -1,0 +1,17 @@
+# The icons are <fab fa-icon_name> 
+# We are using fa icons if you want to add more search https://fontawesome.com/icons?d=gallery
+header: We have amazing services (Label 4)
+list:
+- name: Triathlon (Label5)
+  icon: swimmer
+  description: with bla bla bla we are (Label 6)
+- name: Training Peaks (Label x)
+  icon: laptop
+  description: Training Peaks weekly plans.... (Label 7)
+- name: Cycling (Label 8)
+  icon: biking
+  description: We train you like Miguelon (Label 9)
+- name: Strength Training (Label 10)
+  icon: dumbbell
+  description: No pain No gain is a myth. Speed training is the thing (Label 11)
+

@@ -1,0 +1,17 @@
+# Team names, titles and social links
+people:
+- name: Victor Cerezuela @vitorcerecuela
+  pic: 1
+  position: Head Coach
+  social:
+    - title: slack
+      url: https://unlimitedperf-qxk1768.slack.com/join/shared_invite/zt-ewd5hazp-VmeI_CdWpPo4rj6Ifz1ArA#/
+
+- name: Manuel Fontan @manuelfog
+  pic: 2
+  position: Web Developer
+  social:
+    - title: slack
+      url: https://unlimitedperf-qxk1768.slack.com/join/shared_invite/zt-ewd5hazp-VmeI_CdWpPo4rj6Ifz1ArA#/
+    - title: github
+      url: http://github.com/manfontan
