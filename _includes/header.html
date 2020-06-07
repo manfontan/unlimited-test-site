@@ -36,7 +36,11 @@
             <div class="intro-text">
                 <div class="intro-lead-in">{{ site.data.header.content1 }}</div>
                 <div class="intro-heading">{{ site.data.header.content2 }}</div>
-                <h2><a href="#services"><i class="fas fa-arrow-circle-down"></i></a></h2>                
+                <h1 class="intro-angle">
+                  <a href="#{{ site.data.navigation.list[0].link }}">
+                    <i class="fas fa-angle-double-down angle-blink"></i>
+                  </a>
+                </h1>                
             </div>
         </div>
     </header>

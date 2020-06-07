@@ -1,5 +1,6 @@
 # Team names, titles and social links
-people:
+description: Victor is a PhD student. Manuel is just a bad coder :D
+list: 
 - name: Victor Cerezuela @vitorcerecuela
   pic: 1
   position: Head Coach
@@ -7,7 +8,7 @@ people:
     - title: slack
       url: https://unlimitedperf-qxk1768.slack.com/join/shared_invite/zt-ewd5hazp-VmeI_CdWpPo4rj6Ifz1ArA#/
 
-- name: Manuel Fontan @manuelfog
+- name: Manuel Fontan @manu
   pic: 2
   position: Web Developer
   social:

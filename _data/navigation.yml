@@ -1,11 +1,17 @@
 list: 
 - name: SERVICES
   link: services
+  description: We have amazing services (Label 4)
 - name: PORTFOLIO
   link: portfolio
+  description: Some of our success stories (Label 11)
 - name: ABOUT US
   link: about
+  description: Here is my long short story about how I became a high performance coach (Label 13)
 - name: TEAM
   link: team
+  description: This is an incredible team that will help you to go far and beyond (label 1)
 - name: CONTACT
   link: contact
+  description: Want to know more? We are waiting for you on our slack channel.
+
