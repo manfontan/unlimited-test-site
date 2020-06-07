@@ -1,11 +1,11 @@
 ---
-title: HP Sports Science
-subtitle: Victor Rodriguez
+title: Passo di Gavia
+subtitle: Epic rides
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: victorhp.jpg
-thumbnail: victorhp_tn.jpg
+img: manuel.jpg
+thumbnail: manuel-thumbnail.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
