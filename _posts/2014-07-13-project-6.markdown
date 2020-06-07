@@ -4,8 +4,8 @@ subtitle: Epic rides
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: manuel.jpg
-thumbnail: manuel-thumbnail.jpg
+img: manuel.png
+thumbnail: manuel-thumbnail.png
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
