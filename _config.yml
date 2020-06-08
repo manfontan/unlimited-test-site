@@ -24,3 +24,8 @@ permalink: pretty
 
 header-image: /img/victor.jpg
 upt-logo: /img/unlimitedlogocolor.jpg
+
+# Jekyll plugins for seo, and content indexing
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
